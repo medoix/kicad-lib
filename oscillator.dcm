@@ -4,6 +4,12 @@ $CMP ASTXR-12-19.200MHz
 D TCXO
 $ENDCMP
 #
+$CMP C_Small
+D Unpolarized capacitor, small symbol
+K capacitor cap
+F ~
+$ENDCMP
+#
 $CMP DSC6101CI1A
 D MEMS OSC 12MHz
 $ENDCMP
