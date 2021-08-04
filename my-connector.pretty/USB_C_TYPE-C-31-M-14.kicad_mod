@@ -1,4 +1,4 @@
-(module USB_C_TYPE-C-31-M-14 (layer F.Cu) (tedit 60B44720)
+(module USB_C_TYPE-C-31-M-14 (layer F.Cu) (tedit 6101544E)
   (descr "USB C Type-C Receptacle SMD sunk into PCB")
   (fp_text reference REF** (at 0 -5.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -62,7 +62,7 @@
   (pad "" smd oval (at 5.675 -1.58) (size 1.2 2.4) (layers F.Paste))
   (pad "" smd oval (at 5.675 3.02) (size 1.2 2.4) (layers F.Paste))
   (pad "" smd oval (at -5.675 3.02) (size 1.2 2.4) (layers F.Paste))
-  (model ${KIPRJMOD}/../../josh-kicad-lib/packages3d/josh-connectors/TYPE-C-31-M-14.step
+  (model ${KIPRJMOD}/../../kicad-lib/packages3d/connectors/TYPE-C-31-M-14.step
     (offset (xyz 0.03 1 0.3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
